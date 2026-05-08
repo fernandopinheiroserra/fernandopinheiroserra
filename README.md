@@ -60,11 +60,11 @@ Building products that combine:
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fernandopinheiroserra&show_icons=true&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandopinheiroserra&show_icons=true&theme=tokyonight"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandopinheiroserra&layout=compact&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandopinheiroserra&layout=compact&theme=tokyonight"/>
 
 ---
 
