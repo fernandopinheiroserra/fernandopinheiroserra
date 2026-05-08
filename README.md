@@ -1,16 +1,49 @@
-## Hi there 👋
+# Fernando Pinheiro
 
-<!--
-**fernandopinheiroserra/fernandopinheiroserra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Architect focused on:
+- SaaS Development
+- AI as a Service (AaaS)
+- Game Development
 
-Here are some ideas to get you started:
+Currently building scalable platforms combining:
+- Artificial Intelligence
+- Automation
+- Cloud Infrastructure
+- Interactive Experiences
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Tech Stack
+
+### Backend
+- Golang
+- Python
+- FastAPI
+- MongoDB
+- Redis
+
+### Frontend
+- ReactJS
+- Bootstrap
+
+### AI
+- LLM Integration
+- OpenAI APIs
+- AI Automation
+
+### Game Development
+- Godot
+- Unity
+- Blender
+- Aseprite
+
+---
+
+## Current Focus
+
+Building products that connect:
+- AI
+- SaaS
+- Infrastructure
+- Automation
+- Games
