@@ -60,18 +60,6 @@ Building products that combine:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandopinheiroserra&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandopinheiroserra&layout=compact&theme=tokyonight&cache_seconds=1800"/>
-</p>
-
----
-
 # 🚀 Philosophy
 
 > "Technology, creativity, and intelligence should work together to build meaningful systems."
