@@ -62,9 +62,13 @@ Building products that combine:
 
 ## 📊 GitHub Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandopinheiroserra&show_icons=true&theme=tokyonight"/>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandopinheiroserra&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandopinheiroserra&layout=compact&theme=tokyonight"/>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandopinheiroserra&layout=compact&theme=tokyonight&cache_seconds=1800"/>
+</p>
 
 ---
 
