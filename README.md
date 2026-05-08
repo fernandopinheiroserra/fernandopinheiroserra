@@ -45,8 +45,9 @@ Currently focused on:
 ![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge)
 
 ## 🎮 Portifolio
-https://vault-servers-games.itch.io/coffee-break
-https://play.vaultservers.com.br/jogo/tao-longe
+
+- https://vault-servers-games.itch.io/coffee-break
+- https://play.vaultservers.com.br/jogo/tao-longe
 
 
 ---
